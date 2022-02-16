@@ -1,0 +1,15 @@
+D:\.NET\CollageWork\firstConsoleApp\bin\Debug\net6.0\firstConsoleApp.exe
+D:\.NET\CollageWork\firstConsoleApp\bin\Debug\net6.0\firstConsoleApp.deps.json
+D:\.NET\CollageWork\firstConsoleApp\bin\Debug\net6.0\firstConsoleApp.runtimeconfig.json
+D:\.NET\CollageWork\firstConsoleApp\bin\Debug\net6.0\firstConsoleApp.dll
+D:\.NET\CollageWork\firstConsoleApp\bin\Debug\net6.0\ref\firstConsoleApp.dll
+D:\.NET\CollageWork\firstConsoleApp\bin\Debug\net6.0\firstConsoleApp.pdb
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.csproj.AssemblyReference.cache
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.AssemblyInfoInputs.cache
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.AssemblyInfo.cs
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.csproj.CoreCompileInputs.cache
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.dll
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\ref\firstConsoleApp.dll
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.pdb
+D:\.NET\CollageWork\firstConsoleApp\obj\Debug\net6.0\firstConsoleApp.genruntimeconfig.cache
